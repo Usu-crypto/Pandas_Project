@@ -1,5 +1,5 @@
 # Pandas_Project
-. ### Population Data Visualization Project: A Comprehensive Analysis Using Python and Pandas
+Population Data Visualization Project: A Comprehensive Analysis Using Python and Pandas
 
 This project represents a detailed exploration of projected 2025 population demographics for 20 of the world's most populous countries, utilizing Python's powerful data analysis libraries, primarily Pandas and Matplotlib. The dataset encompasses key indicators such as total population, yearly percentage change, net population change, density (people per square kilometer), land area, net migration, fertility rate, median age, urban population percentage, and global population share. Sourced likely from reputable databases like the United Nations or World Bank, the data provides a snapshot of global demographic trends, highlighting shifts in growth, aging, urbanization, and migration patterns.
 
